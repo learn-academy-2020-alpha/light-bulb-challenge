@@ -1,4 +1,4 @@
-## Challenge 1 - Light Bulb Challenge
+## Light Bulb Challenge
 
 - As a user I can see a square on the screen with the word 'off' in the middle
 
